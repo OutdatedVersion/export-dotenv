@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "read-dotenv"
+name = "export-dotenv"
 version = "0.1.0"

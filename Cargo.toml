@@ -1,5 +1,5 @@
 [package]
-name = "read-dotenv"
+name = "export-dotenv"
 version = "0.1.0"
 edition = "2021"
 
